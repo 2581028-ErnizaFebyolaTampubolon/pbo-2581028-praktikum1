@@ -8,5 +8,8 @@ public class Biodata {
         String target = "lebih semamgat lagi di semester 3 ini dan bisa memperbaiki ipk";
         System.out.println("Nama : " + nama);
         System.out.println("NIM  : " + nim);
+        System.out.println("PRODI : " + prodi);
+        System.out.println("ASAL : " + asal);
+        System.out.println("TARGET : " + target);
     }
 }
