@@ -4,6 +4,8 @@ public class Biodata {
         String nim = "2581028";
         String prodi = "Teknik Informatika";
         String asal = "Karawang";
+        String alasan = "Karena tertarik dengan Teknologi";
+        String target = "lebih semamgat lagi di semester 3 ini dan bisa memperbaiki ipk";
         System.out.println("Nama : " + nama);
         System.out.println("NIM  : " + nim);
     }
