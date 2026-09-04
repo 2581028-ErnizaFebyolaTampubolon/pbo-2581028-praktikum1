@@ -10,6 +10,7 @@ public class Biodata {
         System.out.println("NIM  : " + nim);
         System.out.println("PRODI : " + prodi);
         System.out.println("ASAL : " + asal);
+        System.out.println("ALASAN : " + alasan);
         System.out.println("TARGET : " + target);
     }
 }
